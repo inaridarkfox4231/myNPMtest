@@ -1,2 +1,3 @@
 # myNPMtest
-npmとgithubのテスト
+npmとgithubのテスト  
+やってみる
