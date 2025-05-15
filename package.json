@@ -1,0 +1,19 @@
+{
+  "name": "my_first_github_npm_fish",
+  "version": "1.0.0",
+  "description": "npmとgithubのテスト  \r やってみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inaridarkfox4231/myNPMtest.git"
+  },
+  "author": "fisce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inaridarkfox4231/myNPMtest/issues"
+  },
+  "homepage": "https://github.com/inaridarkfox4231/myNPMtest#readme"
+}
