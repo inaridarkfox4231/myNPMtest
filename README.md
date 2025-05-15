@@ -1,3 +1,11 @@
 # myNPMtest
 npmとgithubのテスト  
-やってみる
+やってみる  
+unpkgのアドレス：  
+```
+https://unpkg.com/my_first_github_npm_fish@1.0.0/index.min.js
+```
+jsdelivr:  
+```
+https://cdn.jsdelivr.net/npm/my_first_github_npm_fish@1.0.0/index.min.js
+```
