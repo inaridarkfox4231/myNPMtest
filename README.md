@@ -1,0 +1,2 @@
+# myNPMtest
+npmとgithubのテスト
