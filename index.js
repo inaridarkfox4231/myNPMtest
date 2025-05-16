@@ -13,8 +13,13 @@
 })(this, function (exports) {
   "use strict";
 
+  /**
+    あいさつをします。挨拶の内容：「これはNPMのテストです」
+    @return {string} aisatu message.
+  */
+
   function hello(){
-    const message = "my NPM test.";
+    const message = "this is NPM test.";
     console.log(message);
     return message;
   }
