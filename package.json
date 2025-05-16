@@ -1,6 +1,6 @@
 {
   "name": "my_first_github_npm_fish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npmとgithubのテスト  \r やってみる",
   "main": "index.js",
   "scripts": {
